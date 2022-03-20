@@ -25,7 +25,7 @@ const COLORS = {
 
 // TODO: PLEASE SET THESE VALUES
 const NAME = 'drikkes';
-const WEATHER_API_KEY = 'a839f9c67b1ca228a3c9e76153900a06';
+const WEATHER_API_KEY = 'YOUR_API_KEY_HERE';
 const WORK_CALENDAR_NAME = 'Calendar';
 const PERSONAL_CALENDAR_NAME = 'Hendrik Termine';
 // const PERIOD_CALENDAR_NAME = 'TODO';
