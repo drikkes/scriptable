@@ -1,0 +1,2 @@
+# scriptable
+widget for iOS
